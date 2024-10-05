@@ -1,0 +1,5 @@
+name: "Greeting"
+description: "Esta accion saluda al usuario"
+runs:
+  using: "node21"
+  main: "dist/index.js"
